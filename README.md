@@ -78,4 +78,4 @@ The `styles/main.css` file includes styles for the following:
 
 Contributions to this project are welcome. Feel free to submit issues or pull requests. For any suggestions or enhancements, please reach out!
 
-**Thankyou**
+## Thankyou
