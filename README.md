@@ -1,4 +1,4 @@
-# Netflix Clone UI/UX 🎬
+# UI-UX-High-Fidelity-Netflix-Clone 🎬
 
 ## Overview
 
