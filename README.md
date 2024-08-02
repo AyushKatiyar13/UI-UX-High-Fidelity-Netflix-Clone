@@ -74,6 +74,8 @@ The `styles/main.css` file includes styles for the following:
 2. **Visual Appeal**: High-quality images and modern styling mimic Netflix's user interface.
 3. **Responsive Design**: Adapts to different screen sizes to ensure a seamless experience on all devices.
 
+## Link: https://ayushkatiyar13.github.io/UI-UX-High-Fidelity-Netflix-Clone/
+
 ## Contributing
 
 Contributions to this project are welcome. Feel free to submit issues or pull requests. For any suggestions or enhancements, please reach out!
