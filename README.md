@@ -61,7 +61,7 @@ The `styles/main.css` file includes styles for the following:
 2. **Open the Project**: Navigate to the project directory and open `index.html` in your web browser.
 3. **View in Browser**: Open `index.html` to view the Netflix clone in your browser.
 
-## Key Classes and Styles
+## Key Classes and Styles:
 
 - **Header**: Contains the navigation bar and logo.
 - **Hero Section**: Full-width background image with a call-to-action button.
